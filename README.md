@@ -1,7 +1,6 @@
 <div align="center">
   <b>Hola there!👋🏻</b>
   <h1>I'm Pooja Singh</h1>
-  <p>Passionate Frontend Developer👩‍💻</p>
 </div>
 <section>
   <h2>✨ About Me</h2>
