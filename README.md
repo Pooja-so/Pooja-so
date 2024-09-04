@@ -1,6 +1,9 @@
 <div align="center">
   <h2>Hola there!👋🏻 I'm Pooja Singh</h2>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4EA5F2&width=435&lines=Passionate+Frontend+Web+Developer" alt="Typing SVG" /></a>
+  <div align="center">
+     <img src="https://raw.githubusercontent.com/Pooja-so/Pooja-so/main/images/Coding.gif" alt="Coding"/>
+  </div>
 </div>
 <section>
   <h2>👩🏻‍💻 About Me</h2>
