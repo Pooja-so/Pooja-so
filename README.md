@@ -1,25 +1,28 @@
 <div align="center">
-  <b>Hola there!👋🏻</b>
-  <h1>I'm Pooja Singh</h1>
+  <h2>Hola there!👋🏻 I'm Pooja Singh</h2>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4EA5F2&width=435&lines=Passionate+Frontend+Web+Developer" alt="Typing SVG" /></a>
 </div>
 <section>
-  <h2>✨ About Me</h2>
-  <p>A passionate frontend developer driven by the MERN stack, dedicated to crafting amazing web applications. I enjoy working with JavaScript and creating user-friendly interfaces with React. Always eager to learn and improve, I am ready to tackle new challenges. Let's collaborate to create something great.👩🏻‍💻</p>
+  <h2>👩🏻‍💻 About Me</h2>
+  <h4 align="justify">A passionate frontend developer driven by the MERN stack, dedicated to crafting amazing web applications. I enjoy working with JavaScript and creating user-friendly interfaces with React. Always eager to learn and improve, I am ready to tackle new challenges. Let's collaborate to create something great.</h4>
 </section>
-<section>
-  <h2>🛠️ Tech Stack</h2>
+<br/>
+<section align="center">
+  <h2>🚀Languages, frameworks and tools 🛠️ </h2>
   <p>
-    <img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,express,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,postman" />
   </a>
 </p>
 </section>
-<section>
+<br/>
+<section align="center">
+   <h2>📊 Most used langauages </h2>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pooja-so&layout=pie"/>
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pooja-so&hide=c%23,c,typescript,c%2B%2B&theme=dark&card_width=400" alt="Top Languages" />
+ </p>
 </section>
-<section>
-  <h2>📚 Libraries that I've worked with</h2>
+<section align="center">
+  <h2>📑 Libraries: </h2>
   <img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/> 
   <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
   <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-F04D35.svg?style=for-the-badge&logo=Mongoose&logoColor=white"/>
@@ -30,14 +33,14 @@
    <h3><a href="https://taskifyteam.netlify.app/">Taskify</a> | <a href="https://github.com/KhushiiVora/Taskify">Repository</a></h3>
    <p>
      <ul>
+      <li><b>Description:</b>
+       <br/>Developed a real-time task management web app to boost team productivity, featuring integrated group chat, using the MERN stack in 4 months.
+       </li>
+       <br/>
        <li><b>Libraries used:</b>
        <br/>&emsp;<b>Frontend:</b> ReactJS, React Router, Redux Toolkit, Redux Persist, Material-UI (MUI)
        <br/>&emsp;<b>Backend:</b> ExpressJS, Mongoose, Socket.IO
        <br/>&emsp;<b>Authentication and Validation:</b> Passport, JWT (jsonwebtoken), JOI
-       </li>
-       <br/>
-       <li><b>Summary:</b>
-       <br/>Developed a real-time task management web app to boost team productivity, featuring integrated group chat, using the MERN stack in 4 months.
        </li>
        <br/>
        <li><b>Features:</b>
@@ -54,6 +57,10 @@
     <h3><a href="https://github.com/KhushiiVora/MiniProject">CertifyMe</a></h3>
     <p>
      <ul>
+       <li><b>Description:</b>
+       <br/>Developed a reliable system for generating and verifying NFT certificates using the MERN stack and ethereum blockchain technology in 15 days, with decentralized storage via IPFS.
+       </li>
+       <br/>
        <li><b>Libraries used:</b>
        <br/>&emsp;<b>Frontend:</b> ReactJS, React Router, Redux Toolkit, Redux Persist, Material-UI (MUI), EmailJS
        <br/>&emsp;<b>Backend:</b> ExpressJS, Mongoose
@@ -63,10 +70,6 @@
        <li><b>Blockchain Technology:</b>
        <br/>Web3, Solidity and IPFS storage
        </li><br/>
-       <li><b>Summary:</b>
-       <br/>Developed a reliable system for generating and verifying NFT certificates using the MERN stack and ethereum blockchain technology in 15 days, with decentralized storage via IPFS.
-       </li>
-       <br/>
        <li><b>Features:</b>
          <br/>✔️ Two user roles: Institute and Student
          <br/>✔️ Certificate Management: Generate customizable certificate templates for institutes and issue certificates based on a selected template
