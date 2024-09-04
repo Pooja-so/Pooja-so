@@ -25,7 +25,7 @@
  </p>
 </section>
 <section align="center">
-  <h2>📑 Libraries: </h2>
+  <h2>📑 Libraries </h2>
   <img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/> 
   <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
   <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-F04D35.svg?style=for-the-badge&logo=Mongoose&logoColor=white"/>
@@ -85,7 +85,7 @@
   </div>
 </section>
 <section align="center">
-  <h2>Let's Connect🤝:</h2>
+  <h2>Let's Connect🤝</h2>
   <a href="https://x.com/PoojaSingh294"><img alt="twitter" src="https://skillicons.dev/icons?i=twitter" /></a>
   <a href="https://www.linkedin.com/in/pooja-singh-400a64253/"><img alt="linkedin" src="https://skillicons.dev/icons?i=linkedin"/></a>
 </section>
