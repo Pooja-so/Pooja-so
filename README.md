@@ -47,11 +47,11 @@
        </li>
        <br/>
        <li><b>Features:</b>
-         <br/>✔️ Two user roles: Leader and Member
-         <br/>✔️ Task Management: Create or join workspaces with unique names and codes
-         <br/>✔️ Member Privileges: Task assignment and editing, profile control
-         <br/>✔️ Leader Privileges: Assign roles to members, Remove members, Control tasks, categories and workspaces
-         <br/>✔️ ChatBox: Real-time group chat for better communication
+         <br/>✔️<b>Role-Based Access Control:</b> Implemented role-based access with distinct permissions for Leader and Member roles using privilege-based middleware.
+         <br/>✔️<b>Workspace Management:</b> Enabled the creation and membership management of workspaces, each with unique identifiers (names and codes).
+         <br/>✔️ <b>Leader Permissions:</b> Managed workspace, task category, and task operations. Leaders have the ability to lock/unlock workspaces, manage membership (including appointing and removing Leaders), and configure access rights.
+         <br/>✔️ <b>Member Permissions:</b> Enabled task management (excluding task deletion) and profile configuration.
+         <br/>✔️<b>Real-Time Communication:</b> Integrated real-time group messaging using Socket.IO to facilitate dynamic team collaboration.
        </li>
      </ul>
    </p>
