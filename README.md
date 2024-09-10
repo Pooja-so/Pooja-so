@@ -74,11 +74,11 @@
        <br/>Web3, Solidity and IPFS storage
        </li><br/>
        <li><b>Features:</b>
-         <br/>✔️ Two user roles: Institute and Student
-         <br/>✔️ Certificate Management: Generate customizable certificate templates for institutes and issue certificates based on a selected template
-         <br/>✔️ Student Notifications: Email notifications sent to students upon certificate receipt
-         <br/>✔️ Certificate Access: Download certificates as PDFs, View certificates in the browser.
-         <br/>✔️ Public Verification: Verify certificates using unique IDs to prevent duplication and fraud.
+         <br/>✔️ <b>Two user roles:</b> Institute and Student
+         <br/>✔️ <b>>Certificate Management:</b Generate customizable certificate templates for institutes and issue certificates based on a selected template
+         <br/>✔️ <b>Student Notifications:</b> Email notifications sent to students upon certificate receipt
+         <br/>✔️ <b>Certificate Access:</b> Download certificates as PDFs, View certificates in the browser.
+         <br/>✔️ <b>Public Verification:</b> Verify certificates using unique IDs to prevent duplication and fraud.
        </li>
      </ul>
    </p>
