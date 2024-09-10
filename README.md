@@ -75,7 +75,7 @@
        </li><br/>
        <li><b>Features:</b>
          <br/>✔️ <b>Two user roles:</b> Institute and Student
-         <br/>✔️ <b>>Certificate Management:</b Generate customizable certificate templates for institutes and issue certificates based on a selected template
+         <br/>✔️ <b>Certificate Management:</b> Generate customizable certificate templates for institutes and issue certificates based on a selected template
          <br/>✔️ <b>Student Notifications:</b> Email notifications sent to students upon certificate receipt
          <br/>✔️ <b>Certificate Access:</b> Download certificates as PDFs, View certificates in the browser.
          <br/>✔️ <b>Public Verification:</b> Verify certificates using unique IDs to prevent duplication and fraud.
