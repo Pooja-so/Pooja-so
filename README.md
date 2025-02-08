@@ -7,13 +7,13 @@
 </div>
 <section>
   <h2>👩🏻‍💻 About Me</h2>
-  <h4 align="justify">A passionate frontend developer driven by the MERN stack, dedicated to crafting amazing web applications. I enjoy working with JavaScript and creating user-friendly interfaces with React. Always eager to learn and improve, I am ready to tackle new challenges. Let's collaborate to create something great.</h4>
+  <h3 align="justify">A passionate frontend developer driven by the MERN stack, dedicated to crafting amazing web applications. I enjoy working with JavaScript and creating user-friendly interfaces with React. Always eager to learn and improve, I am ready to tackle new challenges. Let's collaborate to create something great.</h3>
 </section>
 <br/>
 <section align="center">
   <h2>🚀Languages, frameworks and tools 🛠️ </h2>
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,postman,nextjs" />
   </a>
 </p>
 </section>
@@ -29,6 +29,7 @@
   <img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/> 
   <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
   <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-F04D35.svg?style=for-the-badge&logo=Mongoose&logoColor=white"/>
+  <img alt="ShadCN" src="https://img.shields.io/badge/ShadCN-%23222222.svg?style=for-the-badge&logo=shadcn&logoColor=white"/>
 </section>
 <section>
   <h2>Major Projects</h2>
