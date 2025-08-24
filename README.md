@@ -34,7 +34,7 @@
 <section>
   <h2>Major Projects</h2>
  <div>
-   <h3><a href="https://taskifyteam.netlify.app/">Taskify</a> | <a href="https://github.com/KhushiiVora/Taskify">Repository</a></h3>
+   <h3>Taskify | <a href="https://taskifyteam.netlify.app/">Live Demo</a> | <a href="https://github.com/KhushiiVora/Taskify">Github Repo</a></h3>
    <p>
      <ul>
       <li><b>Description:</b>
