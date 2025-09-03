@@ -13,7 +13,7 @@
 <section align="center">
   <h2>🚀Languages, frameworks and tools 🛠️ </h2>
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,postman,nextjs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,nodejs,express,mongodb,postman" />
   </a>
 </p>
 </section>
@@ -26,64 +26,75 @@
 </section>
 <section align="center">
   <h2>📑 Libraries </h2>
-  <img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/> 
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white"/>
   <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
-  <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-F04D35.svg?style=for-the-badge&logo=Mongoose&logoColor=white"/>
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img alt="ShadCN" src="https://img.shields.io/badge/ShadCN-%23222222.svg?style=for-the-badge&logo=shadcn&logoColor=white"/>
+  <img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/> 
+
 </section>
 <section>
   <h2>Major Projects</h2>
- <div>
-   <h3>Taskify | <a href="https://taskifyteam.netlify.app/">Live Demo</a> | <a href="https://github.com/KhushiiVora/Taskify">Github Repo</a></h3>
-   <p>
-     <ul>
-      <li><b>Description:</b>
-       <br/>Developed a real-time task management web app to boost team productivity, featuring integrated group chat, using the MERN stack in 4 months.
-       </li>
-       <br/>
-       <li><b>Libraries used:</b>
-       <br/>&emsp;<b>Frontend:</b> ReactJS, React Router, Redux Toolkit, Redux Persist, Material-UI (MUI)
-       <br/>&emsp;<b>Backend:</b> ExpressJS, Mongoose, Socket.IO
-       <br/>&emsp;<b>Authentication and Validation:</b> Passport, JWT (jsonwebtoken), JOI
-       </li>
-       <br/>
-       <li><b>Features:</b>
-         <br/>✔️<b>Role-Based Access Control:</b> Implemented role-based access with distinct permissions for Leader and Member roles using privilege-based middleware.
-         <br/>✔️<b>Workspace Management:</b> Enabled the creation and membership management of workspaces, each with unique identifiers (names and codes).
-         <br/>✔️ <b>Leader Permissions:</b> Managed workspace, task category, and task operations. Leaders have the ability to lock/unlock workspaces, manage membership (including appointing and removing Leaders), and configure access rights.
-         <br/>✔️ <b>Member Permissions:</b> Enabled task management (excluding task deletion) and profile configuration.
-         <br/>✔️<b>Real-Time Communication:</b> Integrated real-time group messaging using Socket.IO to facilitate dynamic team collaboration.
-       </li>
-     </ul>
-   </p>
- </div>
   <div>
-    <h3><a href="https://github.com/KhushiiVora/MiniProject">CertifyMe</a></h3>
-    <p>
-     <ul>
-       <li><b>Description:</b>
-       <br/>Developed a reliable system for generating and verifying NFT certificates using the MERN stack and ethereum blockchain technology in 15 days, with decentralized storage via IPFS.
-       </li>
-       <br/>
-       <li><b>Libraries used:</b>
-       <br/>&emsp;<b>Frontend:</b> ReactJS, React Router, Redux Toolkit, Redux Persist, Material-UI (MUI), EmailJS
-       <br/>&emsp;<b>Backend:</b> ExpressJS, Mongoose
-       <br/>&emsp;<b>Authentication and Validation:</b> Passport, JWT (jsonwebtoken), JOI
-       </li>
-       <br/>
-       <li><b>Blockchain Technology:</b>
-       <br/>Web3, Solidity and IPFS storage
-       </li><br/>
-       <li><b>Features:</b>
-         <br/>✔️ <b>Two user roles:</b> Institute and Student
-         <br/>✔️ <b>Certificate Management:</b> Generate customizable certificate templates for institutes and issue certificates based on a selected template
-         <br/>✔️ <b>Student Notifications:</b> Email notifications sent to students upon certificate receipt
-         <br/>✔️ <b>Certificate Access:</b> Download certificates as PDFs, View certificates in the browser.
-         <br/>✔️ <b>Public Verification:</b> Verify certificates using unique IDs to prevent duplication and fraud.
-       </li>
-     </ul>
-   </p>
-  </div>
+  <h3>
+    Taskify | 
+    <a href="https://taskifyteam.netlify.app/" target="_blank">Live Demo</a> | 
+    <a href="https://github.com/KhushiiVora/Taskify" target="_blank">GitHub Repo</a>
+  </h3>
+  <ul>
+    <li>
+      <b>Description:</b>
+      <br/>
+      Taskify is a productivity-focused platform built with the MERN stack, enabling teams to efficiently manage tasks and collaborate through integrated real-time chat.
+    </li>
+    <br/>
+    <li>
+      <b>Tech Stack:</b>
+      <br/>&emsp;<b>Frontend:</b> ReactJS, React Router, Redux Toolkit, Redux Persist, Material-UI (MUI)
+      <br/>&emsp;<b>Backend:</b> ExpressJS, Mongoose, Socket.IO
+      <br/>&emsp;<b>Authentication and Validation:</b> Passport, JWT (jsonwebtoken), JOI
+    </li>
+    <br/>
+    <li>
+      <b>Key Features:</b>
+      <br/>✔️ <b>Role-Based Access Control:</b> Two distinct user roles – Leader and Member – with defined permissions.
+      <br/>✔️ <b>Task Management System:</b> Create and join workspaces using unique identifiers (name and code) for organized project collaboration.
+      <br/>✔️ <b>Member Capabilities:</b> Assign and edit tasks, manage personal profile settings, and contribute to workspace activities.
+      <br/>✔️ <b>Leader Capabilities:</b> Manage member roles, remove users, and exercise full control over tasks, categories, and workspaces.
+      <br/>✔️ <b>Real-Time Communication:</b> Integrated group chat functionality enabling instant team collaboration and knowledge sharing.
+    </li>
+  </ul>
+</div>
+<div>
+  <h3>
+    Career Orbit AI | 
+    <a href="https://career-orbit-ai-ulcy.vercel.app/" target="_blank">Live Demo</a> | 
+    <a href="https://github.com/Pooja-so/Career-Orbit-AI" target="_blank">GitHub Repo</a>
+  </h3> 
+  <ul>
+    <li>
+      <b>Description:</b>
+      <br/>
+      Career Orbit AI is an AI-driven platform designed to help users upskill their careers with smart tools like a resume builder, AI-powered mock interviews, and real-time industry insights.
+    </li> 
+    <br/>
+    <li>
+      <b>Tech Stack:</b>
+      <br/>&emsp;<b>Frontend:</b> Next.js, Tailwind CSS
+      <br/>&emsp;<b>Backend:</b> Prisma ORM, Inngest, PostgreSQL
+      <br/>&emsp;<b>Authentication:</b> Clerk
+      <br/>&emsp;<b>AI/Services:</b> Gemini AI API
+    </li> 
+   <br/>
+    <li>
+      <b>Key Features:</b>
+      <br/>✔️ <b>Career Upskilling Platform:</b> AI-powered tools designed to enhance users’ career growth.
+      <br/>✔️ <b>Personalized Industry Insights:</b> Automated weekly updates tailored to each user’s career path.
+      <br/>✔️ <b>Resume Builder:</b> Live Markdown editing with instant PDF export functionality.
+      <br/>✔️ <b>Mock Interviews:</b> 10+ dynamically generated questions with AI-driven performance feedback.
+    </li>
+  </ul>
+</div>
 </section>
 <section align="center">
   <h2>Let's Connect🤝</h2>
