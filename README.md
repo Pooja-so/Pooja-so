@@ -13,7 +13,7 @@
 <section align="center">
   <h2>🚀Languages, frameworks and tools 🛠️ </h2>
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,nodejs,express,mongodb,postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,nextjs,redux,nodejs,express,mongodb,postman" />
   </a>
 </p>
 </section>
@@ -21,7 +21,7 @@
 <section align="center">
    <h2>📊 Most used langauages </h2>
   <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pooja-so&hide=c%23,c,typescript,c%2B%2B&theme=dark&card_width=400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pooja-so&hide=c%23,c,c%2B%2B&theme=dark&card_width=400" alt="Top Languages" />
  </p>
 </section>
 <section align="center">
